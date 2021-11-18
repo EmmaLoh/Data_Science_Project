@@ -30,7 +30,7 @@ Project Description: The dataset contains 60,000small square 28×28 pixel graysc
 
 Project: Telecom Churn rate calculation
 
-Client: One of the major Telecom Client ofRubixe
+Client: One of the major Telecom Client of Rubixe
 
 Project Description: Client of Rubixe  is an established Telecom operator in Europe with more than a decade in Business. Due to new players in the Market, telecom industry has become very competitive and retaining customers becoming challenge.The goal of this project is to predict potential customer to churn the telecom industry and take certain actions to decrease this rate.Developed this as a project for internship.
 
