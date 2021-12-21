@@ -36,6 +36,8 @@ Project Description: Client of Rubixe  is an established Telecom operator in Eur
 
 6.18th December 2021 to 21th December 2021
 
+Project:Loan Approval Prediction
+
 Project Description:This project is based on the competition Analytics Vidhya [1] had published about Loans from the company “Dream Housing Finance”, which deals with all kind of home loans spread across urban a rural area.Using customer details to predict customers'loan eligibility. The result of the project was uploaded in order to score the predictions, which was 0.7777. 
 
   
