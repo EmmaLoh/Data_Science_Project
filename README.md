@@ -34,7 +34,7 @@ Client: One of the major Telecom Client of Rubixe
 
 Project Description: Client of Rubixe  is an established Telecom operator in Europe with more than a decade in Business. Due to new players in the Market, telecom industry has become very competitive and retaining customers becoming challenge.The goal of this project is to predict potential customer to churn the telecom industry and take certain actions to decrease this rate.Developed this as a project for internship.The result of the project was B+.
 
-6.18th December 2021 to  December 2021
+6.18th December 2021 to  25thDecember 2021
 
 Project:Loan Approval Prediction
 
