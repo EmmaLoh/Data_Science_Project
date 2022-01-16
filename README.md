@@ -34,14 +34,22 @@ Client: One of the major Telecom Client of Rubixe
 
 Project Description: Client of Rubixe  is an established Telecom operator in Europe with more than a decade in Business. Due to new players in the Market, telecom industry has become very competitive and retaining customers becoming challenge.The goal of this project is to predict potential customer to churn the telecom industry and take certain actions to decrease this rate.Developed this as a project for internship.The result of the project was B+.
 
-6.18th December 2021 to  25thDecember 2021
+6.18th December 2021 to  25th December 2021
 
 Project:Loan Approval Prediction
 
-Project Description:This project is based on the competition Analytics Vidhya [1] had published about Loans from the company “Dream Housing Finance”, which deals with all kind of home loans spread across urban a rural area.Using customer details to predict customers'loan eligibility. The result of the project was uploaded in order to score the predictions, which was 0.7777. 
+Project Description:This project is based on the competition Analytics Vidhya had published about Loans from the company “Dream Housing Finance”, which deals with all kind of home loans spread across urban a rural area.Using customer details to predict customers'loan eligibility. The result of the project was uploaded in order to score the predictions, which was 0.7777. 
 
-7.23th December 2021
+7.23th December 2021-5th January 2022
 
-Project:
+Project:Titanic - Machine Learning from Disaster
+
+Project Description:This project is based on the competition Kaggle had published to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data . The result of the project was uploaded in order to score the predictions, which was . 
+
+8.10th January 2022-24th January 2022
+
+Project:Sentimental Analysis
+
+Project Description:This project is based on the practice Dphi had published to classify as positive, negative, or neutral expression.
   
  
