@@ -25,7 +25,7 @@ Project:Healthcare Analytics
 Project Description: Hospital are faced with severely limited resources including beds to hold admitted patients. Disease diagnosis and estimating patients at higher risk is important for the optimal management. By predicting a patient's length of stay at the time of admission helps hospital to allocate resources more efficiently and manage their patients more effectively.Identifying factors that associate with length of Stay (LOS) to predict and manage the number of days patients stay,could help hospitals in managing resources and in the developement of new treatment plans. 
 Effective use of hospital resources and reducing the length of stay can reduce overall national medical expenses. Developed this as a project for internship.The result of the project was A.
 
-Project link:
+Project link:https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1022_HealthCareAnalytics.ipynb
 
 4.17th Sep 2021 to 24th Sep 2021
 
