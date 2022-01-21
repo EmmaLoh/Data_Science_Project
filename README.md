@@ -1,12 +1,12 @@
 # Data_Science_Project
-
-1.5th Aug 2021 to 22th Aug 2021
-
-Project:Predict  Potential Clients for a Protugese bank
-
-Project Description:By analysing clients features, the bank will be able to predict customer saving behaviours and identify which type of customers is more likely to make term deposits.
-This dataset was collected from each client about their basic information,financial status , the  frequency ofcontact with last campaign and social and economic context.The goal of this project is to improve the effectiveness of the bank's telemarketing campaign. Developed this as a project for internship.The result of the project was A.
-
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------| |                                                                                                                                                                      |
+|1.5th Aug 2021 to 22th Aug 2021                                                                                                                                      | 
+|                                                                                                                                                                     |
+|Project:Predict  Potential Clients for a Portugese bank                                                                                                              |
+|                                                                                                                                                                     |
+|Project Description:By analysing clients features, the bank will be able to predict customer saving behaviours and identify which type of customers is more likely to| |make term deposits.                                                                                                                                                  |
+|This dataset was collected from each client about their basic information,financial status , the  frequency ofcontact with last campaign and social and economic     | |context.The goal of this project is to improve the effectiveness of the bank's telemarketing campaign. Developed this as a project for internship.The result of the  | |project was A.                                                                                                                                                       |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 2.23th Aug 2021 to 2nd Sep 2021
 
 Project:Prediction for Bike Rental count daily and hourly
