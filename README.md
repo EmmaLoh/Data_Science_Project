@@ -44,7 +44,7 @@ Project link:
 
 1)https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1002-HandwrittenDigits.ipynb
 
-2) https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1002-HandwrittenDigits2.ipynb
+2)https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1002-HandwrittenDigits2.ipynb
 
 5.27th Sep 2021 to 22th Oct 2021
 
