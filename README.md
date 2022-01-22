@@ -5,7 +5,7 @@
 Project:Predict  Potential Clients for a Portugese bank                                                                                                              
                                                                                                                                                                      
 Project Description:By analysing clients features, the bank will be able to predict customer saving behaviours and identify which type of customers is more likely to make term deposits.                                                                                                                                                  
-This dataset was collected from each client about their basic information,financial status , the  frequency ofcontact with last campaign and social and economic      context.The goal of this project is to improve the effectiveness of the bank's telemarketing campaign. Developed this as a project for internship.The result of the   project was A.
+This dataset was collected from each client about their basic information,financial status , the  frequency of contact with last campaign and social and economic      context.The goal of this project is to improve the effectiveness of the bank's telemarketing campaign. Developed this as a project for internship.The result of the   project was A.
 
 Project link:https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1000_Portugese_Bank_Marketing_Project.ipynb
 
@@ -16,13 +16,14 @@ Project:Prediction for Bike Rental count daily and hourly
 Project Description:Using historical usage patterns and weather data, forecast bike rental demand on daily or hourly basis for the future planning in India capital. Developed this as a project for internship.The result of the project was A.
 
 Project link:Hourly https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1018_Bike_Rental_Project_Hour.ipynb
+
              Daily https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1018_Bike_Rental_Project_day.ipynb
 
 3.3rd Sep 2021 to 16th Sep 2021
 
 Project:Healthcare Analytics
 
-Project Description: Hospital are faced with severely limited resources including beds to hold admitted patients. Disease diagnosis and estimating patients at higher risk is important for the optimal management. By predicting a patient's length of stay at the time of admission helps hospital to allocate resources more efficiently and manage their patients more effectively.Identifying factors that associate with length of Stay (LOS) to predict and manage the number of days patients stay,could help hospitals in managing resources and in the developement of new treatment plans. 
+Project Description: Hospital are faced with severely limited resources including beds to hold admitted patients. Disease diagnosis and estimating patients at higher risk is important for the optimal management. By predicting a patient's length of stay at the time of admission helps hospital to allocate resources more efficiently and manage their patients more effectively.Identifying factors that associate with length of Stay (LOS) to predict and manage the number of days patients stay,could help hospitals in managing resources and in the development of new treatment plans. 
 Effective use of hospital resources and reducing the length of stay can reduce overall national medical expenses. Developed this as a project for internship.The result of the project was A.
 
 Project link:https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1022_HealthCareAnalytics.ipynb
@@ -34,6 +35,7 @@ Project:Image Classification of Handwritten Digits
 Project Description: The dataset contains 60,000small square 28×28 pixel grayscale images of handwritten single digits between 0 and 9.The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively. Developed this as a project for internship.The result of the project was A.
 
 Project link:https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1002-HandwrittenDigits.ipynb
+
              https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1002-HandwrittenDigits2.ipynb
 
 5.27th Sep 2021 to 22th Oct 2021
