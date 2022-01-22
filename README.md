@@ -15,9 +15,8 @@ Project:Prediction for Bike Rental count daily and hourly
 
 Project Description:Using historical usage patterns and weather data, forecast bike rental demand on daily or hourly basis for the future planning in India capital. Developed this as a project for internship.The result of the project was A.
 
-Project link:Hourly https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1018_Bike_Rental_Project_Hour.ipynb
-
-             Daily https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1018_Bike_Rental_Project_day.ipynb
+Project link:*Hourly https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1018_Bike_Rental_Project_Hour.ipynb
+             *Daily https://github.com/EmmaLoh/Data_Science_Project/blob/main/PRCP-1018_Bike_Rental_Project_day.ipynb
 
 3.3rd Sep 2021 to 16th Sep 2021
 
