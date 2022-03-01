@@ -78,10 +78,8 @@ Project link:
 
 https://github.com/EmmaLoh/Data_Science_Project/blob/main/Titanic.ipynb
 
-8.10th January 2022-24th January 2022
+8.
 
-Project:Sentimental Analysis
-
-Project Description:This project is based on the practice Dphi had published to classify as positive, negative, or neutral expression.
-  
+Project:
+Project Description:
 Project link:
