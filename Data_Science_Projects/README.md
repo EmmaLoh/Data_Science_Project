@@ -1,14 +1,13 @@
 
 ## Data Science Project
 
+
 1.5th Aug 2021 to 22th Aug 2021
 
-Project:Predict Potential Clients for a Portugese bank
-
-Project Description:By analysing clients features, the bank will be able to predict customer saving behaviours and identify which type of customers is more likely to make term deposits.
+Project:Predict Potential Clients for a Portugese bank|By analysing clients features, the bank will be able to predict customer saving behaviours and identify which type of customers is more likely to make term deposits.
 This dataset was collected from each client about their basic information,financial status , the frequency of contact with last campaign and social and economic context.The goal of this project is to improve the effectiveness of the bank's telemarketing campaign. Developed this as a project for internship.The result of the project was A.
 
-Project link:https://github.com/EmmaLoh/Portfolio/blob/main/Data_Science_Projects/PRCP-1000_Portugese_Bank_Marketing_Project.ipynb
+Project Link:https://github.com/EmmaLoh/Portfolio/blob/main/Data_Science_Projects/PRCP-1000_Portugese_Bank_Marketing_Project.ipynb
 
 
 2.23th Aug 2021 to 2nd Sep 2021
