@@ -1,7 +1,7 @@
 
 ## Web Development
 
-| |Projects|Date|
+| |Projects|    |
 |-|--------|----|
-|1|Registration Form|11/5/2022|
+|1|Registration Form|HTML|
 |2|-----------------|---------|
