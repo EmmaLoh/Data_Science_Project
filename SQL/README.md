@@ -1,4 +1,4 @@
 | |Project|Project Description|Project Link|
 |-|-------|-------------------|------------|
 |1.|Titanic|Analyzed the Titanic passengers database by using SQL language and SQLite technology to determine the characteristic of passengers who have a higher survival rate in the shipwreck.The overall of the survival rate in the tragedy is 38%. Produced a completed analysis report in document format.| https://docs.google.com/document/d/1XsnkKiPuO1yH2lee1krwQ8k-PBkTAzfPH3_hDJ4lycM/edit?usp=sharing|                                                                                                                                                                  
-|2.|Design an ecommerce database|Designed a database for ecommerce website by utilised online ER diagram tools.|https://drive.google.com/file/d/16DKSF_WeTHs2P9-cS_n1EXTNfrWRbZ0A/view?usp=sharing|
+|2.|Design an ecommerce database|Designed a database for ecommerce website by utilised online ER diagram tools.|[https://drive.google.com/file/d/16DKSF_WeTHs2P9-cS_n1EXTNfrWRbZ0A/view?usp=sharing]|
