@@ -6,4 +6,4 @@
 |1|Registration Form|HTML&CSS|
 |2|Pricing Panel|HTML&CSS|
 |3|Museum of Candy Project|HTML&CSS|
-|4|Flexbox|CSS|
+|4|Buttons|HTMl&CSS|
