@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    
+       
+
+<head>
+   
+    <meta charset ='UTF-8'>
+    <meta name="viewport " content="width=device-width,initial-scale=1.0">
+    <nav>
+        <!--<label for="Search">Search</label>
+        <input type="text" placeholder="Search" id="Search">
+        <button id="log">Log In</button>
+        <button id="signup">Sign Up</button>-->
+    </nav>
+    <h1>Webinar Registration </h1>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700">
+    <link rel="stylesheet" href="Form.css">
+</head>
+<hr>
+<body>
+     
+     <h2>Registration Form</h2>
+     <form action="/SubmittedForm" class="Submitted">
+        
+         <p> 
+         <label for="firstname">First Name:</label>
+         <input id='firstname' type='text ' placeholder='Your First Name' name="firstname" required minilength="'4" 
+         maxlength="'12" size="'14"> 
+         </p>
+         <p>
+         <label for="lastname">Last Name:</label>
+         <input id='lastname' type="text"  placeholder='Your Last Name' name="lastname" required>
+        </p>
+         <p> 
+             
+            <label for ='title'>Your Title:</label>
+         <div >
+            
+            
+            <input type="radio" name="t" id="Mr" value="Mr">
+            <label for ='Mr'>Mr</label>
+             
+         </div>
+         <div >
+            
+            <input type="radio" name="t" id="Mrs" value="Mrs">
+            <label for ='Mrs'>Mrs</label>
+            
+        </div>
+        <div >
+            
+            <input type="radio" name="t" id="secret" value="secret">
+            <label for ='secret'>Secret</label>
+            
+        </div>
+        </p>
+        <p>
+            <label for="birth">Birth:</label>
+            <input id ='birth' type="date" placeholder='Your birth' name="birth">
+        </p>
+         <p>
+         <label for="password">Password:</label>
+         <input id='password' type="password" placeholder='Your password' name="password" min='10' max='15' required>
+        </p>
+        <p>
+         <label for="Registration Date">Registration Date:</label>
+         <input id="Registration Date" type="date" placeholder='Today Date' name="Registration Date">
+        </p>
+    <p>
+         <label for="Contact Number">Contact Number:</label>
+         <input id="Contact Number" type="text" placeholder='Your contact number' required size="'14" name="Contact Number">
+        </p>
+
+        <p> 
+            <label for ='preferencetime'>Prefer to be contacted on:</label>
+         <div >
+            <input type="checkbox" name="weekday12pm" id="weekday12pm" checked>
+             <label for ='weekday12pm'>Weekday before 12pm</label>
+             
+         </div>
+         <div >
+            <input type="checkbox" name="weekday7pm" id="weekday7pm" checked>
+             <label for ='weekday7pm'>Weekday before 7 pm</label>
+             
+         </div>
+         <div >
+            <input type="checkbox" name="weekend12pm" id="weekend12pm" checked>
+             <label for ='weekend12pm'>Weekend before 12pm</label>
+             
+         </div>
+         <div >
+            <input type="checkbox" name="weekend7pm" id="weekend7pm" checked>
+             <label for ='weekend7pm'>Weekend before 7 pm</label>
+             
+         </div>
+        </p>
+        <p>
+         <label for="email">Email:</label>
+         <input id='email' type="text" placeholder='Your contact email' name="email" value="email" required>
+        </p>
+        <p>
+            <h5><label for='hint'>Your Password Hint</label></h5>
+               <select name="hint" id="hint">
+                   <option value="food">Food</option>
+                   <option value="scenary">Scenary</option>
+                   <option value="people">People</option>
+                   <option value="animal">Animal</option>
+                   <option value="sport">Sport</option>
+                </select>>
+
+        </p>
+        <h5>Your Data will be kept for further services purpose.</h5>
+        <h6><div >
+            <input type="radio" name="r" id="agree" value="agree" checked>
+             <label for ='agree'>Agree</label>
+             
+         </div>
+         <div >
+            
+            <input type="radio" name="r" id="disagree" value="disagree" >
+            <label for ='disagree'>Disagree</label>
+             
+            
+         </div></h6>
+         <p>
+             <label for="questions">Have any Question?</label>
+             <br>
+             <textarea id="questions" rows="10" cols="40" name="questions" placeholder="We will respond as soon as possible^^"></textarea> 
+         </p>
+         <p>
+             <button>Create Account</button>
+        </p>
+        <p>
+        <button>Return</button>
+        </p>
+        </form>
+    
+  
+
+</body>
+<!--<footer>
+    <hr>
+        <h3>Search Shortcut</h3>
+        <h4>Search Google</h4>
+        <form action="https://www.google.com.my/">
+            <input type="text" name="q">
+            <button>Search Google</button>
+           
+        </form>
+        <h4>Search Youtube</h4>
+        <form action="https://www.youtube.com/" class="c"><input type="text" name="q"><button>Search Youtube</button></form>
+        
+</footer>-->
+</html>

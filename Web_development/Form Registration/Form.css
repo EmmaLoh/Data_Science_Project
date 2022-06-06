@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+   
+   
+}
+h2{
+    text-align: center;
+    
+    
+}
+html {
+    background-color:rgb(68, 38, 68);
+    
+   
+    
+  
+  }
+body{
+   
+  background-color: rgb(238, 235, 235);
+  background-size: 500px 250px;
+    border-radius: 10px;
+}
+.Submitted{
+
+    padding-left: 300px;
+   
+    max-width: 500px;
+}
+button{
+  margin-top: 5px;
+    margin-bottom: 5px;
+}
+
