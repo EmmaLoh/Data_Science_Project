@@ -1,0 +1,39 @@
+html {
+    background-image: url(https://www.gannett-cdn.com/-mm-/519d4e9b20d7466b9172e30b67e8eac05343129e/c=0-194-3888-2387/local/-/media/Westchester/IntheGarden/2014/02/27/1393509493000-lav.jpg?width=3200&height=1680&fit=crop);
+    background-repeat: no-repeat;
+    }
+body {
+        background-color: rgb(198, 215, 251);
+        background-size: 300px 250px;
+    }
+    
+
+.display-1{
+    text-align: center;
+    
+    
+}
+img{
+    float:right;
+    padding-right: 100px;
+    max-width: 500px;
+    max-height: 1000px;
+    align-self: auto;
+    border-radius: 10px;
+}
+
+blockquote{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.blockquote-footer{
+    padding-left: 100px; 
+}
+
+
+button{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 500px;
+}
+
