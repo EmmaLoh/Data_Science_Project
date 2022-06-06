@@ -9,3 +9,4 @@
 |4|Cafe menu|HTMl&CSS|
 |5|Animation|HTMl&CSS|
 |6|CSS Flexbox photoblog|HTMl&CSS|
+|7|Poem sharing using typography|HTMl&CSS|
