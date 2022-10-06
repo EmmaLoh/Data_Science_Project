@@ -1,4 +1,4 @@
-## Six phases of data analysis
+# Six phases of data analysis
 
 1. Ask
 
