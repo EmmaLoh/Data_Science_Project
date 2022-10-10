@@ -18,32 +18,15 @@ Communicating and interpreting results
 6. Act on the data and use the analysis results.
 Putting your insights to work to solve the problem
 
-## SAS's iterative life cycle
+# Variations of the data life cycle
+Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
 
-1.Ask
+Capture: Collect or bring in data from a variety of different sources.
 
-2.Prepare
+Manage: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so.
 
-3.Explore
+Analyze: Use the data to solve problems, make decisions, and support business goals.
 
-4.Model
+Archive: Keep relevant data stored for long-term and future reference.
 
-5.Implement
-
-6.Act
-
-7.Evaluate
-
-
-## Project-based data analytics life cycle 
-
-1.Identifying the problem
-
-2.Designing data requirements
-
-3.Pre-processing data
-
-4.Performing data analysis
-
-5.Visualizing data
-
+Destroy: Remove data from storage and delete any shared copies of the data.
