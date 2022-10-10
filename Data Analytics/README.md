@@ -1,4 +1,4 @@
-# Six phases of data analysis
+# Six phases of data analysis(from Google Analytics Courses)
 
 1. Ask questions and define the problem.
 Business Challenge/Objective/Question
@@ -33,6 +33,7 @@ Putting your insights to work to solve the problem
 6.Act
 
 7.Evaluate
+
 
 ## Project-based data analytics life cycle 
 
