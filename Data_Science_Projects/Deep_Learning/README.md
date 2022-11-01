@@ -19,6 +19,8 @@
 * Optimise the model
 
 ### Model Building
+![Multilayer perceptron](https://user-images.githubusercontent.com/74225708/199261503-47910325-4890-4524-86dd-383220d68f7d.png)
+
 * Input Layer=image'flattened out'
 * Linear Layer:y=wx+b,aka
 * Dense Layer:y=W.x+b
