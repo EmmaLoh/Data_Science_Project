@@ -20,7 +20,8 @@
 * Optimise the model
 
 ### Model Building
-![Multilayer perceptron](https://user-images.githubusercontent.com/74225708/199262948-c24ce5e0-1667-4d42-b7f1-c0c0fdb81c5a.png)
+![Capture](https://user-images.githubusercontent.com/74225708/199271992-834273fb-50da-491a-8c6f-29fc2ce169d4.PNG)
+
 
 * Input Layer=image'flattened out'
 * Linear Layer:y=wx+b,aka
@@ -28,10 +29,6 @@
 * Output Layer:y=the end output
 
  
-
-
-
-
 ### Frameworks for DL in Python
 * TensorFlow
 * Pytorch
