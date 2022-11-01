@@ -1,5 +1,16 @@
 ## Deep Learning
 
+### Applications
+#### Computer Vision
+Image Classification 
+Object Detection
+#### Speech&Audio
+Voice Recognition
+Language Translation
+#### Natural Language Processing
+Recommendation Engines
+Sentiment Analysis
+
 ### Understanding a neural network model 
 Epoch 
 learning rate
