@@ -1,3 +1,3 @@
 ## Projects
 
-###Midterm Project
+### Midterm Project
