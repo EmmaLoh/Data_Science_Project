@@ -2,15 +2,27 @@
 
 ### Applications
 #### Computer Vision
-Image Classification 
-Object Detection
+* Image Classification 
+* Object Detection
 #### Speech&Audio
-Voice Recognition
-Language Translation
+* Voice Recognition
+* Language Translation
 #### Natural Language Processing
-Recommendation Engines
-Sentiment Analysis
+* Recommendation Engines
+* Sentiment Analysis
 
+### Key Steps
+* Get some compute
+* Get some data
+* Randomly initialise the model parameters
+* Work out the 'amount of error'
+* Optimise the model
+
+### Model Building
+* Input Layer=image'flattened out'
+* Linear Layer:y=wx+b,aka
+* Dense Layer:y=W.x+b
+* Output Layer:y=the end output
 ### Understanding a neural network model 
 Epoch 
 learning rate
@@ -33,6 +45,7 @@ Architecture
 loss
 optimizer
 
-### Framework
-
+### Frameworks for DL in Python
+* TensorFlow
+* Pytorch
 http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.27297&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
