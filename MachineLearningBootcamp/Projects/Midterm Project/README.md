@@ -4,3 +4,6 @@ Pfizer Inc. is an American multinational pharmaceutical and biotechnology corpor
 ##### Information about this dataset
 This dataset provides historical data of Pfizer Inc. (PFE). The data is available at a daily level. Currency is USD.
 https://www.kaggle.com/datasets/varpit94/pfizer-stock-data
+
+##### Criteria
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQCwqAtkjl07MTW-SxWUK9GUvMQ3Pv_fF8UadcuIYLgHa0PlNu9BRWtfLgivI8xSCncQs82HDwGXSm3/pubhtml
