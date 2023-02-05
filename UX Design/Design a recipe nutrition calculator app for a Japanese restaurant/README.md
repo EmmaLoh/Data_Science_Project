@@ -1,8 +1,13 @@
+### Understanding the Problem
+
+Recently,the population that have existing health issues and diet conscious ones need to customise their diets has been increasing,this app should help to guide the customers of the Japanese restaurant to choose their preferences quicker by providing the nutrition values of their chosen recipe,suggested recipes according to their health issues and so on.
+
+
 ### Interview goals: 
 
-I want to understand common challenges people face trying to manage a busy schedule and Japanese meal planning.
+-I want to understand common challenges people face trying to manage a busy schedule and meal planning.
 
-I want to identify frustrations people experience during the process of tracking nutrition.  
+-I want to identify frustrations people experience during the process of tracking nutrition.  
 
 ### Interview questions: 
 
