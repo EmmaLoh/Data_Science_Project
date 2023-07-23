@@ -1,0 +1,3 @@
+Find the wine with the highest points to price ratio. Output the title, points, price, and the corresponding points-to-price ratio.
+
+Table: winemag_p2
