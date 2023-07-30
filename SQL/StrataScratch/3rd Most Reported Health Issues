@@ -4,6 +4,17 @@ https://platform.stratascratch.com/coding/9701-3rd-most-reported-health-issues?c
 If we limit the table to only include businesses with Cafe, Tea, or Juice in the name, find the 3rd most common category (pe_description). Output the name of the facilities that contain 3rd most common category.
 
 Table: los_angeles_restaurant_health_inspections
+1st
+check what data include in the dataset
+select *
+from los_angeles_restaurant_health_inspections
+
+2nd
+filter with Cafe, Tea, or Juice in the name
+select count(facility_name)
+from los_angeles_restaurant_health_inspections
+where facility_name is not null
+
 
 
 
