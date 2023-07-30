@@ -24,3 +24,10 @@ From nfl_combine
 Group by college
 Order by player_count desc
 
+5
+Select college ,count(name) as player_count
+From nfl_combine
+where college is not null
+Group by college
+Order by player_count desc
+
