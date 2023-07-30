@@ -1,5 +1,5 @@
 Each record in the table is a reported health issue and its classification is categorized by the facility type, size, risk score which is found in the pe_description column.
-
+https://platform.stratascratch.com/coding/9701-3rd-most-reported-health-issues?code_type=1
 
 If we limit the table to only include businesses with Cafe, Tea, or Juice in the name, find the 3rd most common category (pe_description). Output the name of the facilities that contain 3rd most common category.
 
