@@ -12,11 +12,22 @@ from los_angeles_restaurant_health_inspections
 
 2nd
 filter with Cafe, Tea, or Juice in the name
-select count(facility_name)
+select facility_name
 from los_angeles_restaurant_health_inspections
-where facility_name is not null
+where facility_name ILIKE '%cafe%'
+     OR facility_name ILIKE '%tea%'
+     OR facility_name ILIKE '%juice%'
 
 
+3rd
+find the 3rd most common category (pe_description) in the los_angeles_restaurant_health_inspections table.
 
+select facility_name,rec
+from los_angeles_restaurant_health_inspections
+where facility_name ILIKE '%cafe%'
+     OR facility_name ILIKE '%tea%'
+     OR facility_name ILIKE '%juice%'
+group by pe_dsecription
 
+why wong?
 
