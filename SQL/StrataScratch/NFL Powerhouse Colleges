@@ -9,11 +9,13 @@ check the data distribution
 select * from nfl_combine;
 
 2nd 
+compute the number of players
 Select college ,count(name) as player_count
 From nfl_combine
 
 
 3rd
+
 Select college ,count(name) as player_count
 From nfl_combine
 Group by college
