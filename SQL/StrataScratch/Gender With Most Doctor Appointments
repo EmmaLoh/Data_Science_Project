@@ -18,15 +18,15 @@ Select gender,count(appointmentid) As n_appointment
 From medical_appointments
 Group By Gender
 ![image](https://github.com/EmmaLoh/Portfolio/assets/74225708/6d4dc4f7-ba82-4ea8-aaed-f2bf82611eaa)
---> There 42 times males patients have an appointment, whereas 58 female has an appointment with the doctor.
+--> Themale patients have  42 times  appointment, whereas 58 female has an appointment with the doctor.
 
 3rd
-find the 3rd most common category (pe_description) in the los_angeles_restaurant_health_inspections table.
+Order by sorting the value from bigger to smaller and Limit to 1 row
 Select gender,count(appointmentid) As n_appointment
 From medical_appointments
 Group By Gender
 Order by n_appointment desc
 Limit 1
--->Order by sorting the value from bigger to smaller and Limit to 1 row,so I can get the gender to have the higher number of appointments.
+--> The gender that has  the higher number times of appointments is female
 ![image](https://github.com/EmmaLoh/Portfolio/assets/74225708/41b55d7f-ddb2-45a7-a48f-9de28810d899)
 
