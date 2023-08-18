@@ -1,0 +1,29 @@
+Reason: I am interested in problem statements from the healthcare industry
+Find the gender that has made the most number of doctor appointments.
+Output the gender along with the corresponding number of appointments.
+source:https://platform.stratascratch.com/coding/10170-gender-with-most-doctor-appointments?code_type=1
+
+
+1st
+Check how data distributed 
+Select *
+From medical_appointments
+ --> The type of appointments has been categorized 
+![image](https://github.com/EmmaLoh/Portfolio/assets/74225708/bd5510e7-6daa-4150-8547-c8c7a040a63e)
+2nd
+Checked whether patient id  has been repeated
+Select distinct count(patientid)
+From medical_appointments
+
+3rd
+find the 3rd most common category (pe_description) in the los_angeles_restaurant_health_inspections table.
+
+select facility_name,rec
+from los_angeles_restaurant_health_inspections
+where facility_name ILIKE '%cafe%'
+     OR facility_name ILIKE '%tea%'
+     OR facility_name ILIKE '%juice%'
+group by pe_dsecription
+
+why wong?
+
