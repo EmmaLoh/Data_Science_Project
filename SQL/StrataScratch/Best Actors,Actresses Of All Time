@@ -1,8 +1,0 @@
-https://platform.stratascratch.com/coding/9754-best-actorsactresses-of-all-time?code_type=1
-Find the best actors/actresses of all time based on the number of Oscar awards. Output nominees alongside their number of Oscars. Order records in descending order based on the number of awards.
-
-1st
-select * from oscar_nominees;
-
-2nd 
-S
