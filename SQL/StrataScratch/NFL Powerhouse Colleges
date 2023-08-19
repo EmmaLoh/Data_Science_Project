@@ -7,29 +7,39 @@ Table: nfl_combine
 1st
 check the data distribution
 select * from nfl_combine;
+![image](https://github.com/EmmaLoh/Portfolio/assets/74225708/e3648d04-26bb-4b4c-95d9-d81785ec53c1)
 
 2nd 
-compute the number of players
+Count the number of players
 Select college ,count(name) as player_count
 From nfl_combine
-
+--->Error message
 
 3rd
-
+Count the number of players
 Select college ,count(name) as player_count
 From nfl_combine
 Group by college
+-->Obtained the number of NFL Players in each college
+![image](https://github.com/EmmaLoh/Portfolio/assets/74225708/8574d782-230c-46b4-b85f-dd220db8c428)
 
-4
+4th
+Sorting the table in descending order
 Select college ,count(name) as player_count
 From nfl_combine
 Group by college
 Order by player_count desc
+-->There have 51 players not from the colleges in the list
+![image](https://github.com/EmmaLoh/Portfolio/assets/74225708/f6451952-7474-4f5f-89bc-06e846494d85)
 
-5
+
+5th
+Exclude the null value,using Where syntax
 Select college ,count(name) as player_count
 From nfl_combine
 where college is not null
 Group by college
 Order by player_count desc
+
+![image](https://github.com/EmmaLoh/Portfolio/assets/74225708/2eded175-e650-4b11-a08b-975b86da17bb)
 
