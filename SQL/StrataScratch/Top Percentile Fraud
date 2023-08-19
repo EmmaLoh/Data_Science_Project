@@ -11,7 +11,7 @@ from fraud_score
 
 
 2nd
-
+Calculate the top 5 percentile of the fraud score column within each row/state And set it as subquery
 Select state,
           percentile_cont(0.05) Within Group (Order by fraud_score Desc) AS percentile
    From fraud_score
@@ -19,7 +19,20 @@ Select state,
 
 
 3rd
+The main query then selects the policy_num, state, claim_cost, and fraud_score columns from the fraud_score table and joins it with the percentiles on their state columns. The results are filtered to only include rows where the fraud_score is greater than or equal to the corresponding percentile value.
+With percentiles AS
+  (Select state,
+          percentile_cont(0.05) Within Group (Order by fraud_score Desc) AS percentile
+   From fraud_score
+   Group By state
+)
+Select policy_num,
+       f.state,
+       claim_cost,
+       fraud_score
+From fraud_score f
+Join percentiles p On f.state = p.state
+Where fraud_score >= percentile
 
+![image](https://github.com/EmmaLoh/Portfolio/assets/74225708/880cec71-b6b2-41f8-9ba0-67f6be2a3396)
 
-
-4th
